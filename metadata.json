@@ -1,0 +1,12 @@
+{
+  "name": "Vicinio Local Marketplace",
+  "description": "Premium Android-first hyperlocal shopping marketplace connecting neighborhood shops with local customers.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
